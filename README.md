@@ -42,8 +42,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
 
-
-[![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lordfarshad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
