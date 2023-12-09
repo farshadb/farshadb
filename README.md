@@ -4,7 +4,9 @@
 **`Software Developer`**
 
 <h3> I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute to Opensource projects.
-
+ 
+---
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farshadb)
 
@@ -35,7 +37,9 @@
  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
+
 ---
+
 # 📊 GitHub Stats:
 <p align="center">
 
