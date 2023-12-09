@@ -39,10 +39,10 @@
 
 </p>
 
-<p align="center">
+<p align="center">  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"/>
 
 </p>
 
