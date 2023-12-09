@@ -4,13 +4,9 @@
 **`Software Developer`**
 
 <h3> I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute to Opensource projects.
- 
----
- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farshadb)
-
----
 
 </p>
 
@@ -38,7 +34,6 @@
  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
----
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -53,16 +48,12 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)</br>
 
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
 
 </p>
 
----
-
 [![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
----
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/farshadb) 
