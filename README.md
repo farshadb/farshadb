@@ -36,7 +36,7 @@
 
 
 # 📊 GitHub Stats: 
-[![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) 
+
 <p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)</br>
@@ -53,8 +53,11 @@
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+</br>
 
+[![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) 
+
+</br>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/farshadb) 
