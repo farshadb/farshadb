@@ -1,5 +1,3 @@
-<p align="center">
-
 # 💫 Farshad Bolouri
 **`Software Developer`**
 
@@ -8,7 +6,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@farshadb)
 
-</p>
 
 # 💻 Tech Stack:
 <p align="center">
@@ -37,21 +34,14 @@
 
 # 📊 GitHub Stats: 
 
-<p align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)</br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)</br>
 
-</p>
-
-<p align="center">  
- 
 ![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)</br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
 
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
