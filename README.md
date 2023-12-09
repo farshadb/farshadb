@@ -52,7 +52,7 @@
 
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=lordfarshad&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=lordfarshad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)</br>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/farshadb) 
