@@ -34,18 +34,17 @@
 # 📊 GitHub Stats:
 <p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)
 
 </p>
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)
 
 </p>
-
 
 [![](https://visitcount.itsvg.in/api?id=lordfarshad&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
