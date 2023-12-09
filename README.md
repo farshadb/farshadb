@@ -3,8 +3,6 @@
 **`Software Developer`**
 <br>I’m a Backend  Developer.<br>I’m looking to collaborate on International Companies and contribute on Opensource projects.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@01farshad)
 
@@ -35,11 +33,16 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=lordfarshad&icon=0&color=0)](https://visitcount.itsvg.in)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)br/>
+
+![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)br/>
+
+[![](https://visitcount.itsvg.in/api?id=lordfarshad&icon=0&color=0)](https://visitcount.itsvg.in)br/>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/farshadb) 
