@@ -3,7 +3,7 @@
 # 💫 Farshad Bolouri
 **`Software Developer`**
 
-<br>I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute on Opensource projects.
+<h3> I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute on Opensource projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@01farshad)
@@ -38,8 +38,9 @@
 # 📊 GitHub Stats:
 <p align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)</br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)</br>
 
 </p>
 
