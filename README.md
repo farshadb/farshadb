@@ -35,7 +35,8 @@
 </p>
 
 
-# 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) 
+# 📊 GitHub Stats: 
+[![](https://visitcount.itsvg.in/api?id=lordfarashad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) 
 <p align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)</br>
