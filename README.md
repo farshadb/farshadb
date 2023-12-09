@@ -3,7 +3,7 @@
 # 💫 Farshad Bolouri
 **`Software Developer`**
 
-<h3> I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute on Opensource projects.
+<h3> I’m a Backend Developer.<br>I’m looking to collaborate on International Companies and contribute to Opensource projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshadb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@01farshad)
@@ -26,7 +26,6 @@
  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SQLc-003B57?style=for-the-badge"/> 
  <img src="https://img.shields.io/badge/GitLab CI/CD-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"/>
  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
  <img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
