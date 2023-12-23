@@ -34,15 +34,15 @@
 
 # 📊 GitHub Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&show_icons=true)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farshadb&theme=algolia&show_icons=true)</br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lordfarshad&theme=algolia&hide_border=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farshadb&theme=algolia&hide_border=false)</br>
 
-![](https://github-readme-stats.vercel.app/api?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)</br>
+![](https://github-readme-stats.vercel.app/api?username=farshadb&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordfarshad&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farshadb&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>  
 
-[![](https://visitcount.itsvg.in/api?id=lordfarshad&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=farshadb&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
